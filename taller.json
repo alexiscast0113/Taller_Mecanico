@@ -1,0 +1,16 @@
+[
+    {
+        "placa": "string",
+        "modelo": "string",
+        "falla_reportada": "string",
+        "estado": "En diagnóstico",
+        "costo_reparacion": 0
+    },
+    {
+        "placa": "ABC123",
+        "modelo": "2022",
+        "falla_reportada": "No enciende",
+        "estado": "En diagnóstico",
+        "costo_reparacion": 0
+    }
+]
